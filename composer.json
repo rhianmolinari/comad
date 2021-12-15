@@ -10,7 +10,7 @@
         "johnpbloch/wordpress-core-installer": "^2.0",
         "johnpbloch/wordpress-core": "^5.8.2",
         "wpackagist-plugin/wordpress-seo": "^17.8",
-        "wpackagist-theme/grandconference": "^4.6"
+        "wpackagist-theme/hueman": "^3.7"
     },
     "repositories": {
         "wppackagist": {
